@@ -1,13 +1,13 @@
 # Sara AI - Commerce Support Advisor
 
-[![React Version](https://img.shields.io/badge/react-18.2.0-8B5CF6.svg)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/typescript-5.3.0-10B981.svg)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/node.js-20.0.0-F59E0B.svg)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/python-3.12.0-EF4444.svg)](https://www.python.org/)
-[![Build Status](https://img.shields.io/badge/build-passing-059669.svg)](https://github.com/TensorScholar/commerce-support-advisor)
-[![Coverage](https://img.shields.io/badge/coverage-95%25-7C3AED.svg)](https://github.com/TensorScholar/commerce-support-advisor)
-[![License: MIT](https://img.shields.io/badge/License-MIT-6B7280.svg)](https://opensource.org/licenses/MIT)
-[![Production Ready](https://img.shields.io/badge/production-ready-1F2937.svg)](https://github.com/TensorScholar/commerce-support-advisor)
+[![React Version](https://img.shields.io/badge/react-18.2.0-2D3748.svg)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/typescript-5.3.0-4A5568.svg)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/node.js-20.0.0-2B6CB0.svg)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/python-3.12.0-805AD5.svg)](https://www.python.org/)
+[![Build Status](https://img.shields.io/badge/build-passing-38A169.svg)](https://github.com/TensorScholar/commerce-support-advisor)
+[![Coverage](https://img.shields.io/badge/coverage-95%25-2C7A7B.svg)](https://github.com/TensorScholar/commerce-support-advisor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-718096.svg)](https://opensource.org/licenses/MIT)
+[![Production Ready](https://img.shields.io/badge/production-ready-1A202C.svg)](https://github.com/TensorScholar/commerce-support-advisor)
 
 **Sara AI** is a production-grade, intelligent commerce support advisor designed specifically for Persian language e-commerce platforms. It provides real-time product recommendations, customer support, and sales assistance through an embeddable chat widget with advanced RAG (Retrieval-Augmented Generation) capabilities.
 
