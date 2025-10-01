@@ -51,10 +51,10 @@ graph TD
     D --> K
     G --> L
 
-    style Frontend fill:#8B4513,stroke:#654321,stroke-width:2px,color:#fff
-    style API fill:#A0522D,stroke:#8B4513,stroke-width:2px,color:#fff
-    style Intelligence fill:#2F4F4F,stroke:#1C3A3A,stroke-width:2px,color:#fff
-    style Data fill:#8B0000,stroke:#660000,stroke-width:2px,color:#fff
+    style Frontend fill:#2F1B14,stroke:#1A0F0A,stroke-width:2px,color:#fff
+    style API fill:#8B0000,stroke:#660000,stroke-width:2px,color:#fff
+    style Intelligence fill:#8B4513,stroke:#654321,stroke-width:2px,color:#fff
+    style Data fill:#2F4F4F,stroke:#1C3A3A,stroke-width:2px,color:#fff
 ```
 
 ### Architectural Layers
