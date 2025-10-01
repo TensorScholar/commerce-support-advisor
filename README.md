@@ -285,16 +285,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Mohammad Atashi** - [mohammadaliatashi@icloud.com](mailto:mohammadaliatashi@icloud.com)
 
-**GitHub Repository**: [https://github.com/TensorScholar/commerce-support-advisor](https://github.com/TensorScholar/commerce-support-advisor)
-
-## 🙏 Acknowledgments
-
-- Clean Architecture principles by Robert C. Martin
-- Microservices patterns and best practices
-- Modern React and TypeScript development practices
-- Persian language processing with Hazm library
-- Open source community contributions
-
 ---
 
 **Sara AI** - Intelligent Commerce Support for Persian E-commerce Platforms
