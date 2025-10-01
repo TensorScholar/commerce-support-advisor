@@ -1,0 +1,5 @@
+// TypeScript configuration for API Gateway
+// - Node.js target with ES2020
+// - Strict type checking
+// - Path mapping for clean imports
+// - Declaration file generation

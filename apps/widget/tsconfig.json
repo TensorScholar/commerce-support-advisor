@@ -1,0 +1,5 @@
+// TypeScript configuration for React widget
+// - ES2020 target with modern features
+// - React JSX transform
+// - Strict type checking enabled
+// - Path mapping for clean imports

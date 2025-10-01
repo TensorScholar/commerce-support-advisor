@@ -1,0 +1,8 @@
+# Continuous Integration Workflow
+# - Run on pull requests and main branch
+# - Install dependencies with PNPM
+# - Run TypeScript type checking
+# - Run ESLint and Prettier
+# - Run unit and integration tests
+# - Build all applications
+# - Generate test coverage reports

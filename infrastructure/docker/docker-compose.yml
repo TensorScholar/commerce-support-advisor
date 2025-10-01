@@ -1,0 +1,8 @@
+# Docker Compose for development environment
+# - API Gateway service
+# - RAG Engine service
+# - MongoDB database
+# - Redis cache
+# - Elasticsearch (Phase 2)
+# - Network configuration
+# - Volume mounts for development

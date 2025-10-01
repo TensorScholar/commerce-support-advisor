@@ -1,0 +1,5 @@
+# Multi-stage Dockerfile for API Gateway
+# - Build stage: Install dependencies and compile TypeScript
+# - Production stage: Copy built files and run server
+# - Security: Non-root user, minimal attack surface
+# - Optimization: Multi-layer caching, minimal image size

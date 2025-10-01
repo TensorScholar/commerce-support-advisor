@@ -1,0 +1,7 @@
+# Continuous Deployment Workflow
+# - Run on main branch pushes
+# - Build and push Docker images
+# - Deploy to staging environment
+# - Run smoke tests
+# - Deploy to production (manual approval)
+# - Update deployment status

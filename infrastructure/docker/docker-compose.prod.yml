@@ -1,0 +1,5 @@
+# Docker Compose for production environment
+# - Production-optimized configurations
+# - Resource limits and constraints
+# - Health checks and restart policies
+# - Environment-specific settings

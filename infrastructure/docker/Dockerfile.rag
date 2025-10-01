@@ -1,0 +1,5 @@
+# Multi-stage Dockerfile for RAG Engine
+# - Build stage: Install Python dependencies
+# - Production stage: Copy source and run FastAPI
+# - Security: Non-root user, minimal packages
+# - Optimization: Alpine base, compiled dependencies
